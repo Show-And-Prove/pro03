@@ -33,4 +33,37 @@
 ![UI프로세스_관리자](https://user-images.githubusercontent.com/112448467/212028581-c8da016a-6d83-4ce3-b469-e0fe5b752bc9.png)
 
 ------------------------------------------------
+## 스토리보드
+
+### 메인
+![image](https://user-images.githubusercontent.com/112448467/212794067-8aaa337a-7d22-40fd-a04e-a706065e3464.png)
+
+### 회원가입
+![image](https://user-images.githubusercontent.com/112448467/212794097-042f6210-08f0-4733-a74a-5b84266b4f48.png)
+
+### 로그인
+![image](https://user-images.githubusercontent.com/112448467/212794126-cc3dcf37-ec61-4b44-867e-1b3032a75b9d.png)
+
+### 글 목록(공지사항)
+![image](https://user-images.githubusercontent.com/112448467/212794196-d491e598-b02f-4a13-9849-99c65e8b9c39.png)
+
+### 글 작성(공지사항)
+![image](https://user-images.githubusercontent.com/112448467/212794167-dcfbb510-82c8-41a7-b080-225e6f48a51d.png)
+
+### 서브페이지(관광)
+![image](https://user-images.githubusercontent.com/112448467/212794244-c670bd52-fd63-420c-8dfb-807996c7fdba.png)
+![image](https://user-images.githubusercontent.com/112448467/212794256-e280b851-4165-424d-b3b3-8c9201225137.png)
+
+### 서브페이지(체험)
+![image](https://user-images.githubusercontent.com/112448467/212794283-309dfa3d-0a8a-4a3f-8045-83d0506fc83a.png)
+![image](https://user-images.githubusercontent.com/112448467/212794295-7610206e-0b05-4343-893c-06b264644b78.png)
+
+### 글 목록(QnA)
+![image](https://user-images.githubusercontent.com/112448467/212794330-76a60c4f-ebe7-4fe4-9352-dd390a180d88.png)
+
+### 이용후기
+![image](https://user-images.githubusercontent.com/112448467/212794360-6dc5555b-b254-470c-8d14-87d4fcfe6d18.png)
+
+
+
 
