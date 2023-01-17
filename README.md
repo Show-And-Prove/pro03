@@ -64,6 +64,38 @@
 ### 이용후기
 ![image](https://user-images.githubusercontent.com/112448467/212794360-6dc5555b-b254-470c-8d14-87d4fcfe6d18.png)
 
+------------------------------------------------
+## 기능 구현 화면
+
+### 메인
+![image](https://user-images.githubusercontent.com/112448467/212795035-4fb3a184-b052-4403-bae6-263cfd4a90b9.png)
+![image](https://user-images.githubusercontent.com/112448467/212795056-9842691e-045d-45d2-ba2f-1ec2ce88acb7.png)
+
+### 로그인
+![image](https://user-images.githubusercontent.com/112448467/212795095-48027690-bc70-40c4-bcdf-d61a99aa0bcf.png)
+
+### 회원가입
+![image](https://user-images.githubusercontent.com/112448467/212795157-a6e4f762-15c2-4bd8-9c88-342a478fc396.png)
+
+### 서브페이지
+![image](https://user-images.githubusercontent.com/112448467/212795244-28808325-9405-41d3-8af7-ff0649806f2a.png)
+![image](https://user-images.githubusercontent.com/112448467/212795289-c1f23d3e-45d5-4f89-8d29-ab702db40c6a.png)
+![image](https://user-images.githubusercontent.com/112448467/212795333-9bdf4061-6a50-46b2-8a05-434d3dbf1fce.png)
+
+### 이용후기
+![image](https://user-images.githubusercontent.com/112448467/212795396-262f4170-8d9f-4b81-acf4-2d4b0f9c0f22.png)
+
+### 장소 등록
+![image](https://user-images.githubusercontent.com/112448467/212795480-f748baa7-0806-47e4-a299-a09ec4f72138.png)
+
+### 파일(사진) 업로드
+![image](https://user-images.githubusercontent.com/112448467/212795573-7ef91a5a-2d4d-43f4-99ec-7a96e459a924.png)
+
+
+
+
+
+
 
 
 
